@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://edgclearlove.top:3306/test?characterEncoding=UTF-8&autoReconnect=true&failOverReadOnly=false&maxReconnects=5
+    username: root
+    password: 123456
